@@ -68,7 +68,3 @@ Please make sure to update tests as appropriate.
 https://user-images.githubusercontent.com/69623604/233785606-fad193f1-a519-4479-a4ca-3d298b242104.mp4
 
 
-##### Lets connect and have a Chat!💬
-<a href="https://www.instagram.com/electronicsclubiitg/?hl=en" ><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45" height="45"></a>
-<a href="https://www.facebook.com/electronics.iitg/"><img src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" width="78" height="50"></a>
-<a href="https://www.reddit.com/r/ElectronicsClubIITG/"><img src="https://www.pngkit.com/png/full/0-7757_reddit-logo-reddit-icon-png.png" width="45" height="45"></a>
