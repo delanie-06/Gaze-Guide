@@ -54,11 +54,10 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
 ## Team Members:
-1) Aalap
+1) Rucha
 2) Delanie
 3) Alexander
-4) Rucha
-5) Ayush
+
 
 
 ## Screenshots
